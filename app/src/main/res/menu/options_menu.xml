@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- <item
+        android:id="@+id/accesConfig"
+        android:title="@string/textAccesConfig"/> -->
+
+    <item
+        android:id="@+id/connection"
+        android:title="@string/textAccesConnection"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/disconnection"
+        android:title="@string/textRevokeConnection"
+        android:visible="false"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/textRefresh"/>
+
+    <item
+        android:id="@+id/transparentWhenNoStock"
+        android:title="@string/textNoStock"
+        android:checkable="true"/>
+
+    <item
+        android:id="@+id/annuler"
+        android:title="@string/textAnnuler"/>
+
+</menu>

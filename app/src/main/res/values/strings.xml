@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TestsApplicationStage</string>
+    <string name="textAccesConfig">Configuration</string>
+    <string name="textAnnuler">Annuler</string>
+    <string name="usernameLabel">Nom D\'Utilisateur :</string>
+    <string name="passwordLabel">Mot De Passe :</string>
+    <string name="connectionLabel">Se Connecter</string>
+    <string name="preference_file_key">com.example.testsapplicationstage.PREFERENCES_FILE_KEY</string>
+    <string name="action_settings">Configuration</string>
+    <string name="textRefresh">Mettre à jour la liste</string>
+    <string name="mot_de_passe">Mot De Passe</string>
+    <string name="nom_d_utilisateur">Nom D\'utilisateur</string>
+    <string name="prompt_username">Nom d\'Utilisateur</string>
+    <string name="prompt_password">Mot De Passe</string>
+    <string name="action_sign_in">Se Connecter</string>
+    <string name="liste_des_produits">Liste des produits</string>
+    <string name="no_user_text">Aucun utilisateur connecté</string>
+    <string name="user_title">Utilisateur connecté</string>
+    <string name="action_connection">Connexion</string>
+    <string name="textAccesConnection">Se Connecter</string>
+    <string name="textRevokeConnection">Se Deconnecter</string>
+    <string name="textNoStock">Afficher les produits sans stock</string>
+    <string name="element_text">blabla</string>
+</resources>
